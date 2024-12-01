@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, World!
 Changes in main branch
+=======
+Changes in new branch
+>>>>>>> master
